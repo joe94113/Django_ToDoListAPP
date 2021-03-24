@@ -2,4 +2,4 @@
 
 `python manage.py runserver`
 
-[網站連結](https://young-dawn-83765.herokuapp.com/)
+[Web Link](https://young-dawn-83765.herokuapp.com/)
